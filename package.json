@@ -39,7 +39,7 @@
     "paypal-rest-sdk": "^1.8.1",
     "pug": "~2.0.0-beta6",
     "serve-favicon": "^2.5.0",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.4.0",
     "uglify-es": "^3.3.9",
     "validator": "^8.0.0"
   },
